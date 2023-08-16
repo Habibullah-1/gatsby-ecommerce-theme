@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner1.png'}
         title={'Hello from Habibullah'}
-        subtitle={'Discover the real driving experience'}
+        subtitle={'Discover the real driving experience!'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
